@@ -99,5 +99,5 @@ Feel free to contribute to this project by suggesting improvements or adding new
 
 <div align="center"> <img src="https://media.giphy.com/media/26FmRLBRpzN8n4cuA/giphy.gif" alt="Teamwork GIF" width="500"/> </div>
 
-## 👨‍💻 Developed by Your Name
+## 👨‍💻 Developed by me
 📧 Reach me at: [d'coder](https://github.com/betiniakarandut)
