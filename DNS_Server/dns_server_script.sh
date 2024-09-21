@@ -141,6 +141,11 @@ sudo systemctl restart bind9
 echo "Checking Bind9 status..."
 sudo systemctl status bind9
 
+# Update iptables
+echo "updating iptables"
+sudo iptables -A INPUT -p udp --dport 53 -j ACCEPT
+sudo iptables -A INPUT -p tcp --dport 53 -j ACCEPT
+
 # Step 9: Update resolv.conf for DNS queries
 echo "Configuring /etc/resolv.conf..."
 sudo tee /etc/resolv.conf > /dev/null <<EOL
