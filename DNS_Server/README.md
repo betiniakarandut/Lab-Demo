@@ -42,6 +42,20 @@ For a full breakdown, check the **setup_instruction.md** file in this repository
 ## 📂 Project Structure
 
 ```bash
+📂 dns-server-setup/
+├── 📄 README.md # Project Overview (this file) 
+├── 📄 setup_instruction.md # Detailed setup instructions
+├── 📂 configs/ # Contains DNS configuration files 
+│ 
+├── named.conf.local # DNS zone configurations 
+│ 
+├── db.example.com # Forward DNS zone file 
+│ 
+└── db.192.168.1 # Reverse DNS zone file
+|
+└── 🖥️ dns_server_script.sh # Bash script to automate DNS server setup
+
+
 ```
 
 ---
