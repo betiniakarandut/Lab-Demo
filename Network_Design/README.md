@@ -36,9 +36,12 @@ This project focuses on creating a **secure and efficient corporate network** us
 
 ## 📊 Network Architecture
 
-The designed network consists of multiple layers, each with distinct security controls to isolate and protect different areas of the organization. Below is a high-level diagram of the network.
-
+The designed network consists of multiple layers, each with distinct security controls to isolate and protect different areas of the organization. Below is a simplified and high-level diagram of the network.
+#### Simplified diagram
 ![Network Architecture Diagram](./Network_diagram.png)
+
+#### High-level diagram
+![Network Architecture Diagram](./coporate_network.webp)
 
 **Network Components**:
 - **Core Router**: Connects all internal and external networks.
