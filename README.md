@@ -74,8 +74,8 @@ Project_Name/
 │
 ├── Security_Configuration/    # Task C: Security configuration files
 │   ├── firewall_rules.sh      # Firewall rules configuration script
-│   ├── vpn_setup_guide.md     # Instructions for VPN setup
-│   ├── fail2ban_config.md     # Fail2Ban configuration for security
+│   ├── vpn_setup_guide.sh     # Instructions for VPN setup
+│   ├── fail2ban_config.sh     # Fail2Ban configuration for security
 │   └── additional_security.md # Additional security tips and measures
 │
 └── final_report.md            # Overall report summarizing the tasks
